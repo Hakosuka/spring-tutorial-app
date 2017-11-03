@@ -6,6 +6,6 @@
  */
 public class UrlShortenerApp {
   public static void main(String[] args){
-    SpringApplication.run(urlShortenerApp.class, args);
+    SpringApplication.run(UrlShortenerApp.class, args);
   }
 }
